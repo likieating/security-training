@@ -1,0 +1,15 @@
+{
+  "registry-mirrors": ["https://docker.m.daocloud.io",
+                        "https://dockerpull.com",
+                        "https://atomhub.openatom.cn",
+                        "https://docker.1panel.live",
+                        "https://dockerhub.jobcher.com",
+                        "https://hub.rat.dev",
+                        "https://docker.registry.cyou",
+                        "https://docker.awsl9527.cn",
+                        "https://do.nark.eu.org",
+                        "https://docker.ckyl.me",
+                        "https://hub.uuuadc.top",
+                        "https://docker.chenby.cn",
+                        "https://docker.ckyl.me"]
+}
